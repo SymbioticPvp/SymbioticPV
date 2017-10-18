@@ -1,6 +1,6 @@
 # Config :P 
 options:
-  enableActionbar: false
+  enableActionbar: true
   enableDyes: false
   enableItemSwitchMessage: false
   enableJoinMessage: true
