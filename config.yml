@@ -1,1 +1,10 @@
 # Config :P 
+options:
+  enableActionbar: false
+  enableDyes: false
+  enableItemSwitchMessage: false
+  enableJoinMessage: true
+  enableOffHand: false
+  enableWorldToggleMessage: false
+  enableWorldSwitchMessage: false
+  toggleCooldown: 10
