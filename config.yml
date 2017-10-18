@@ -29,4 +29,15 @@ item:
     dye: "GRAY"
     name: "&7Players Are Now &cOff!"
     lore:
-      - "&7Toggle Player Visibility to &aOn"
+      - "&7Toggle Player Visibility To &aOn"
+messages:
+  prefix: "&9Visibility > "
+  toggle:
+    on:  "&a-Players On!"
+    off: "&c-Players Off!"
+    already:
+      on:  "&aAlready On!"
+      off: "&cAlready Off!"
+  permission: "&cYou don't have the permissions to do that. &c[!] This Is A Problem Please Contact &9Durpy &c[!]"
+  toggleCooldown: "&cWow So Fast, &7Please Wait &e%time%&7 Second(s) Before Toggling Again. ;)"
+  world: "&cYou Can't Use This Here."
