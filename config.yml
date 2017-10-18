@@ -15,7 +15,7 @@ enabled-Worlds:
   - "world"
   - "world 1"
   - "world 2"
-
+# Items Info
 item:
   slot: 2
   on:
@@ -30,6 +30,7 @@ item:
     name: "&7Players Are Now &cOff!"
     lore:
       - "&7Toggle Player Visibility To &aOn"
+# Messages
 messages:
   prefix: "&9Visibility > "
   toggle:
