@@ -41,3 +41,4 @@ messages:
   permission: "&cYou don't have the permissions to do that. &c[!] This Is A Problem Please Contact &9Durpy &c[!]"
   toggleCooldown: "&cWow So Fast, &7Please Wait &e%time%&7 Second(s) Before Toggling Again. ;)"
   world: "&cYou Can't Use This Here."
+  itemSwitch: "&cNope Sorry :P"
