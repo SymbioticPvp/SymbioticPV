@@ -8,3 +8,10 @@ options:
   enableWorldToggleMessage: false
   enableWorldSwitchMessage: false
   toggleCooldown: 10
+
+# Put The Name Of The Worlds If You Want It Multi-World
+# Dont Delete The " "
+enabled-Worlds:
+  - "world"
+  - "world 1"
+  - "world 2"
