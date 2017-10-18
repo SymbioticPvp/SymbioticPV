@@ -15,3 +15,18 @@ enabled-Worlds:
   - "world"
   - "world 1"
   - "world 2"
+
+item:
+  slot: 2
+  on:
+    item: "LIME_DYE"
+    dye: "LIME"
+    name: "&7Players are &aon!"
+    lore:
+      - "&7Toggle Player Visibility To &cOff"
+  off:
+    item: "GRAY_DYE"
+    dye: "GRAY"
+    name: "&7Players Are Now &cOff!"
+    lore:
+      - "&7Toggle Player Visibility to &aOn"
